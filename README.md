@@ -1,4 +1,4 @@
-# Android mitigations
+# Windows mitigations
 
 ![Publish Windows PC mitigations using Sphinx](https://github.com/tymyrddin/windows-pc-mitigations/workflows/Publish%Windows%20PC%20mitigations%20using%20Sphinx/badge.svg?branch=main)
  Deployed: https://tymyrddin.github.io/windows-pc-mitigations/

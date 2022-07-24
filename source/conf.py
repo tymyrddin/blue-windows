@@ -104,6 +104,7 @@ intersphinx_mapping = {
     "network-mitigations":("https://tymyrddin.github.io/network-mitigations/", None),
     "linux-pc-mitigations": ("https://tymyrddin.github.io/linux-pc-mitigations/", None),
     "macos-mitigations": ("https://tymyrddin.github.io/macos-mitigations/", None),
-    "android-mitigations": ("https://tymyrddin.github.io/android-mitigations/", None)
+    "android-mitigations": ("https://tymyrddin.github.io/android-mitigations/", None),
+    "ios-mitigations": ("https://tymyrddin.github.io/ios-mitigations/", None),
 }
 myst_url_schemes = ["http", "https", ]
