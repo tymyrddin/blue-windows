@@ -13,6 +13,8 @@ Windows PC mitigations
    :caption: Malware
 
    docs/malware/README.md
+   docs/malware/clean-machine.md
+   docs/malware/clean-registry.md
 
 .. toctree::
    :caption: Links
