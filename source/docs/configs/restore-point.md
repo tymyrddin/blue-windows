@@ -1,0 +1,9 @@
+# Create a restore point
+
+* Type Create a restore point in the search box
+* System Properties -> C drive and click the Create button
+* Add a description to the system restore point and click Create
+* System Restore Point Creating Process
+* The system restore point process will begin (wait, wait, wait for it)
+* The restore point was created successfully
+
