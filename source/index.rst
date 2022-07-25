@@ -15,6 +15,16 @@ Windows PC mitigations
    docs/malware/browsers.md
 
 .. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Guards! Guards!
+
+   docs/guards/README.md
+   docs/guards/soup.md
+   docs/guards/*
+
+.. toctree::
    :caption: Links
 
    All mitigations <https://tymyrddin.github.io/mitigations/>
