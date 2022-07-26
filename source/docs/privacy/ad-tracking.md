@@ -1,4 +1,4 @@
-# Disable Ad tracking
+# Disable Ad tracking by Microsoft Ad partners
 
 * Go to Settings -> Privacy
 * In the Privacy tab, click or tap the General menu option

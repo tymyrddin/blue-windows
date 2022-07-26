@@ -1,19 +1,41 @@
 Windows PC mitigations
 ================================================
 
+
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Security configurations
+   :caption: Authentication
 
-   docs/configs/README.md
-   docs/configs/restore-point.md
-   docs/configs/max-uac.md
-   docs/configs/devices.md
-   docs/configs/app-access-mail.md
-   docs/configs/ad-tracking.md
-   docs/configs/location-tracking.md
+   docs/authentication/README.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Services
+
+   docs/services/README.md
+   docs/services/*
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Data
+
+   docs/data/README.md
+   docs/data/*
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Privacy
+
+   docs/privacy/README.md
+   docs/privacy/*
 
 .. toctree::
    :glob:
@@ -22,12 +44,19 @@ Windows PC mitigations
    :caption: Malware
 
    docs/malware/README.md
-   docs/malware/attack-vectors.md
    docs/malware/clean-machine.md
    docs/malware/clean-registry.md
    docs/malware/analysing-trojans.md
-   docs/malware/browsers.md
-   docs/malware/*
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Social engineering
+
+   docs/social-engineering/README.md
+   docs/social-engineering/browsers.md
+   docs/social-engineering/check-mail.md
 
 .. toctree::
    :glob:

@@ -1,5 +1,7 @@
 # Create a restore point
 
+In case the Windows machine is compromised, going back to a previous restore point may fix the issue.
+
 * Type Create a restore point in the search box
 * System Properties -> C drive and click the Create button
 * Add a description to the system restore point and click Create
