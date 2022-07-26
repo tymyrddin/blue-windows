@@ -7,6 +7,7 @@ customisation feature to enhance security.
 * [Restrict which apps can run (without your permission)](max-uac.md)
 * [Restrict access to apps](restrict-access.md)
 * [Block applications](block-internet-access.md)
+* [Enable Controlled Folder Access](cfa.md)
 * Check what you are sharing
 
 ## Related attack trees

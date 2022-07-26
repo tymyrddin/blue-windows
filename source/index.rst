@@ -9,12 +9,16 @@ Windows PC mitigations
    :caption: Authentication
 
    docs/authentication/README.md
+   docs/authentication/login.md
+   docs/authentication/resuming.md
+   docs/authentication/passwords.md
+   docs/authentication/password-manager.md
 
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Services
+   :caption: Services and applications
 
    docs/services/README.md
    docs/services/*

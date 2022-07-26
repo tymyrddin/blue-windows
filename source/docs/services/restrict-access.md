@@ -26,3 +26,10 @@ This method is only possible if you have Windows 10 Pro or Enterprise:
 * Type in the name of the app you want to restrict access to. Don’t forget to add the `.exe` extension after the name of the app.
 * Apply.
 * OK.
+
+### Program Blocker
+
+There are many third-party programs on the Internet that you can use to restrict applications. They will simply lock the 
+applications and password-protect them. Try 
+[AskAdmin](https://www.softpedia.com/get/Security/Security-Related/AppAdmin.shtml) or 
+[Program Blocker](https://www.softpedia.com/get/PORTABLE-SOFTWARE/Security/d7xtech-Program-Blocker.shtml)

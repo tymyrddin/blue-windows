@@ -1,12 +1,8 @@
 # Turning devices on and off
 
-Depending on your location and context, you may want to turn devices, such as webcam and 
-microphone, off and on.
-
-Adversaries can try to gain access with trojans – malware that gives the adversary administrative 
-control over its targeted computers, including, in this case, the ability to remotely control webcams. Trojans are 
-invisibly-installed malware program spread via email attachment or by 
-[tricking victims into visiting a malicious site](attack-trees:docs/social-engineering/Phishing).
+Adversaries can try to gain access with trojans - invisibly-installed malware that gives the adversary administrative 
+control over targeted computers, including, the ability to remotely control devices. Depending on your location and 
+context, you may want to turn devices off and later on again.
 
 ## Examples
 

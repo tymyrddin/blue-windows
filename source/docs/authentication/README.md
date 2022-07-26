@@ -1,11 +1,9 @@
 # Introduction
 
-* It is perhaps annoying to have to enter your password every boot, but it is a little price for
-preventing someone getting into your account and accessing your data.
-* Password protect sleep and screen saver mode.
-* Make that secure passwords.
-* Make a hot corner to turn screen saver on.
-* Use a password manager.
+* [More secure login](login.md)
+* [Require a password when resuming from a stand-by mode](resuming.md)
+* Make that [as-secure-as-possible passwords](passwords.md).
+* Use a [password manager](password-manager.md).
 * Use 2FA whenever possible.
 
 ## Related attack trees
