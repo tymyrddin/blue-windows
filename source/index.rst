@@ -24,7 +24,6 @@ Windows PC mitigations
    docs/services/restrict-access.md
    docs/services/block-internet-access.md
    docs/services/max-uac.md
-   docs/services/cfa.md
 
 .. toctree::
    :glob:
@@ -34,6 +33,8 @@ Windows PC mitigations
 
    docs/data/README.md
    docs/data/restore-point.md
+   docs/data/disk-encryption.md
+   docs/data/cfa.md
 
 .. toctree::
    :glob:

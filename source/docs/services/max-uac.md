@@ -1,4 +1,4 @@
-# Maximise User Account Control (UAC)
+# Maximise user account control (UAC)
 
 * In the search box type "Change user account control" and select the first result
 * Move slider to Always notify me up top and click on OK

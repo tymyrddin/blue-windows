@@ -1,4 +1,6 @@
-# Enable Controlled Folder Access (CFA)
+# Enable controlled folder access (CFA)
+
+Controlled folder access is supported on Windows Server 2019, Windows Server 2022, Windows 10, and Windows 11 clients.
 
 This feature has been tested against various ransomware samples. Controlled Folder Access achieved what it was designed 
 to do; successfully block ransomware from encrypting files located in protected folders.

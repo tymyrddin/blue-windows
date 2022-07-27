@@ -8,10 +8,9 @@ They encrypt your password database with a master password — the master passwo
 
 ## Managers
 
-* KeePass is the most known. It manages passwords, offer browser extensions and mobile apps. It stores password files locally.
-* 1Password is also an excellent choice that more and more people are adopting. 
-* Bitwarden is open-source and an excellent alternative to KeePass.
-* Dashlane offers apps for almost every platform — Windows, macOS, iOS, iPad, and Android. 
+* [Dashlane](https://www.dashlane.com/)
+* [1Password](https://1password.com/)
+* [Bitwarden](https://bitwarden.com/)
 
 ## It does not protect from keyloggers
 

@@ -1,9 +1,7 @@
 # Introduction
 
-* Enable full disk encryption using FileVault
-* Make a vault
-* Password protect files and folders
-* Back up data
+* [Enable full disk encryption using FileVault](disk-encryption.md)
+* [Enable Controlled Folder Access](cfa.md)
 * [Create a restore point](restore-point.md)
 
 ## Related attack trees
