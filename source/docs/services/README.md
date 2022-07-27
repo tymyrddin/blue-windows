@@ -6,6 +6,7 @@ Take control over services, applications, and their permissions.
 * [Restrict which apps can run (without your permission)](max-uac.md)
 * [Restrict access to apps](restrict-access.md)
 * [Block applications](block-internet-access.md)
+* [Unwanted application suggestions](odd-applications.md)
 
 ## Related attack trees
 
