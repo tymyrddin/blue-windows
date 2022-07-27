@@ -1,7 +1,7 @@
 Windows PC mitigations
 ================================================
 
-Version 0.1: This is all based on Windows 10. Supposedly, `Windows 11 has better security <https://www.thewindowsclub.com/new-security-features-in-windows-11>`_. Some of the below is still applicable and useful. When we have an 11 we will test it, and split and update these mitigations.
+Version 0.1: These mitigations are all based on Windows 10. Supposedly, `Windows 11 has better security <https://www.thewindowsclub.com/new-security-features-in-windows-11>`_. Some of the below is still applicable and useful. When we have an 11 we will test it, and split and update these mitigations.
 
 .. toctree::
    :glob:

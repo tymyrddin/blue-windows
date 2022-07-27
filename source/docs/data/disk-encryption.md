@@ -25,6 +25,8 @@ or a toggle of sorts. If there is no TPM chip on your motherboard, you can still
 * Choose to enter a password at every startup or connect a USB/Flash drive (Smart Card) containing the startup key. The latter is somewhat of a dangerous option. If the USB drive holding the key is damaged or lost you may lose access to the drive.
 * Set a [strong password](../authentication/passwords.md) and re-enter it to confirm. Next.
 * Keep the recovery key securely locked away on both (dedicated) USB storage and paper.
+
+## Encrypt a drive
 * Choose to either encrypt the entire hard drive or only the part used. 
   * On old buckets where most of the storage space is already being used, do the whole hard drive.
   * On new machines, or machines with little data, choose to encrypt only the space that is currently filled with data. Bitlocker will automatically encrypt any new data you add to the disk.
