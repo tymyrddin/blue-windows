@@ -1,6 +1,5 @@
 # Introduction
 
-* Check Guest User Account is disabled.
 * [Check Location services is turned off](location-tracking.md)
 * [Disable Ad tracking by Microsoft Ad partners](ad-tracking.md)
 * [Turning devices on and off](devices.md)
