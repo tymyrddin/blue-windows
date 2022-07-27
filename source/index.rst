@@ -25,6 +25,7 @@ Windows PC mitigations
    docs/services/restrict-access.md
    docs/services/block-internet-access.md
    docs/services/max-uac.md
+   docs/services/odd-applications.md
 
 .. toctree::
    :glob:
