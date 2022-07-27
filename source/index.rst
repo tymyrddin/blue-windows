@@ -1,7 +1,6 @@
 Windows PC mitigations
 ================================================
 
-
 .. toctree::
    :glob:
    :maxdepth: 1
@@ -21,7 +20,11 @@ Windows PC mitigations
    :caption: Services and applications
 
    docs/services/README.md
-   docs/services/*
+   docs/services/restrict-services.md
+   docs/services/restrict-access.md
+   docs/services/block-internet-access.md
+   docs/services/max-uac.md
+   docs/services/cfa.md
 
 .. toctree::
    :glob:
@@ -30,7 +33,7 @@ Windows PC mitigations
    :caption: Data
 
    docs/data/README.md
-   docs/data/*
+   docs/data/restore-point.md
 
 .. toctree::
    :glob:
@@ -39,7 +42,9 @@ Windows PC mitigations
    :caption: Privacy
 
    docs/privacy/README.md
-   docs/privacy/*
+   docs/privacy/location-tracking.md
+   docs/privacy/ad-tracking.md
+   docs/privacy/devices.md
 
 .. toctree::
    :glob:
