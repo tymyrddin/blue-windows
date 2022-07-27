@@ -5,7 +5,7 @@ Windows PC mitigations
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Authentication
+   :caption: Accounts and authentication
 
    docs/authentication/README.md
    docs/authentication/login.md
