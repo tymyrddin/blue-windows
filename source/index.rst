@@ -12,6 +12,7 @@ Windows PC mitigations
    docs/authentication/resuming.md
    docs/authentication/passwords.md
    docs/authentication/password-manager.md
+   docs/authentication/standard-user.md
 
 .. toctree::
    :glob:

@@ -5,7 +5,7 @@
 * Make that [as-secure-as-possible passwords](passwords.md).
 * Use a [password manager](password-manager.md).
 * Use 2FA whenever possible.
-* Consider setting up separate user accounts and not using one with Administrator privileges for day-to-day use.
+* [Use a standard user account](standard-user.md)
 
 ## Related attack trees
 
