@@ -1,7 +1,10 @@
 Windows PC mitigations
 ================================================
 
-Version 0.1: These mitigations are all based on Windows 10. Supposedly, `Windows 11 has better security <https://www.thewindowsclub.com/new-security-features-in-windows-11>`_. Some of the below is still applicable and useful. When we have an 11 we will test it, and split and update these mitigations.
+Version 0.1: These mitigations are all based on Windows 10.
+Supposedly, `Windows 11 has better security <https://www.thewindowsclub.com/new-security-features-in-windows-11>`_.
+Some of these mitigations are still applicable and useful.
+When we have an 11 (waiting for a key) we will test it, and add mitigations.
 
 .. toctree::
    :glob:
@@ -10,6 +13,7 @@ Version 0.1: These mitigations are all based on Windows 10. Supposedly, `Windows
    :caption: Accounts and authentication
 
    docs/authentication/README.md
+   docs/authentication/separation-principle.md
    docs/authentication/login.md
    docs/authentication/resuming.md
    docs/authentication/passwords.md
