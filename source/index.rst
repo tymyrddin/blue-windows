@@ -43,6 +43,7 @@ When we have an 11 (waiting for a key) we will test it, and add mitigations.
    docs/data/README.md
    docs/data/restore-point.md
    docs/data/disk-encryption.md
+   docs/data/file-encryption.md
    docs/data/cfa.md
 
 .. toctree::
