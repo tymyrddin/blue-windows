@@ -18,6 +18,7 @@ When we have an 11 (waiting for a key) we will test it, and add mitigations.
    docs/authentication/resuming.md
    docs/authentication/passwords.md
    docs/authentication/password-manager.md
+   docs/authentication/mfa.md
    docs/authentication/standard-user.md
 
 .. toctree::

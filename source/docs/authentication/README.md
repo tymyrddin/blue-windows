@@ -1,12 +1,10 @@
 # Introduction
 
-
-* [Design principles]
 * [More secure login](login.md)
 * [Require a password when resuming from a stand-by mode](resuming.md)
-* Make that [as-secure-as-possible passwords](passwords.md).
-* Use a [password manager](password-manager.md).
-* Use 2FA whenever possible.
+* [Make that more secure passwords](passwords.md).
+* [Use a password manager](password-manager.md).
+* [Use multi-factor authentication (MFA)](mfa.md)
 * [Use a standard user account](standard-user.md)
 
 ## Related attack trees
