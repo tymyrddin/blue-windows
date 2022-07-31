@@ -7,8 +7,12 @@ Take control over services, applications, and their permissions.
 * [Restrict access to apps](restrict-access.md)
 * [Block applications](block-internet-access.md)
 * [Unwanted application suggestions](odd-applications.md)
+* [Secure browsers that protect your privacy](browsers.md)
+* [Use a secure messaging service](messaging.md)
 
 ## Related attack trees
 
 * [System](attack-trees:docs/system/README)
 * [Malware](attack-trees:docs/malware/README)
+* [E2EE threat model](https://tymyrddin.github.io/e2ee-threat-model/)
+

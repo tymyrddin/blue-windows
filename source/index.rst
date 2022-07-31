@@ -33,6 +33,8 @@ When we have an 11 (waiting for a key) we will test it, and add mitigations.
    docs/services/block-internet-access.md
    docs/services/max-uac.md
    docs/services/odd-applications.md
+   docs/services/browsers.md
+   docs/services/messaging.md
 
 .. toctree::
    :glob:
