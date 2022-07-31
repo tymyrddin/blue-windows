@@ -36,6 +36,7 @@ When we have an 11 (waiting for a key) we will test it, and add mitigations.
    docs/services/vpn.md
    docs/services/browsers.md
    docs/services/messaging.md
+   docs/services/email-services.md
 
 .. toctree::
    :glob:
@@ -59,6 +60,7 @@ When we have an 11 (waiting for a key) we will test it, and add mitigations.
    docs/privacy/location-tracking.md
    docs/privacy/ad-tracking.md
    docs/privacy/devices.md
+   docs/privacy/email-use.md
 
 .. toctree::
    :glob:
@@ -78,7 +80,7 @@ When we have an 11 (waiting for a key) we will test it, and add mitigations.
    :caption: Social engineering
 
    docs/social-engineering/README.md
-   docs/social-engineering/browsers.md
+   docs/social-engineering/browsing.md
    docs/social-engineering/check-mail.md
 
 .. toctree::
