@@ -42,6 +42,9 @@ When we have an 11 (waiting for a key) we will test it, and add mitigations.
    docs/services/vpn-fail-open.md
    docs/services/dns-servers.md
    docs/services/tor-proxy.md
+   docs/services/change-mac.md
+   docs/services/renew-lease.md
+   docs/services/edit-hosts-file.md
 
 .. toctree::
    :glob:

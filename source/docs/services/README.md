@@ -14,6 +14,9 @@ Take control over services, applications, and their permissions.
 * [Use a VPN service](vpn.md)
 * [Make a VPN killswitch using routes](vpn-fail-open.md)
 * [Use a Tor proxy](tor-proxy.md)
+* [Change MAC address](change-mac.md)
+* [Renew IP lease](renew-lease.md)
+* [Edit hosts file](edit-hosts-file.md)
 
 ## Related attack trees
 
