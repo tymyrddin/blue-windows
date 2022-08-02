@@ -41,6 +41,7 @@ When we have an 11 (waiting for a key) we will test it, and add mitigations.
    docs/services/vpn.md
    docs/services/vpn-fail-open.md
    docs/services/dns-servers.md
+   docs/services/tor-proxy.md
 
 .. toctree::
    :glob:

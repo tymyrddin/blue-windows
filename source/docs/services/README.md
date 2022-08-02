@@ -12,6 +12,8 @@ Take control over services, applications, and their permissions.
 * [Use a secure email service](email-services.md)
 * [Use SSH tunnels](ssh.md)
 * [Use a VPN service](vpn.md)
+* [Make a VPN killswitch using routes](vpn-fail-open.md)
+* [Use a Tor proxy](tor-proxy.md)
 
 ## Related attack trees
 
