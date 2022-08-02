@@ -65,6 +65,10 @@ When we have an 11 (waiting for a key) we will test it, and add mitigations.
    docs/privacy/location-tracking.md
    docs/privacy/ad-tracking.md
    docs/privacy/devices.md
+   docs/privacy/metadata.md
+   docs/privacy/metadata-images.md
+   docs/privacy/hexeditors.md
+   docs/privacy/bleachbit.md
 
 .. toctree::
    :glob:
