@@ -14,12 +14,13 @@ When we have an 11 (waiting for a key) we will test it, and add mitigations.
 
    docs/authentication/README.md
    docs/authentication/separation-principle.md
+   docs/authentication/standard-user.md
    docs/authentication/login.md
    docs/authentication/resuming.md
    docs/authentication/passwords.md
    docs/authentication/password-manager.md
    docs/authentication/mfa.md
-   docs/authentication/standard-user.md
+   docs/authentication/ssh-mfa.md
 
 .. toctree::
    :glob:
@@ -33,10 +34,13 @@ When we have an 11 (waiting for a key) we will test it, and add mitigations.
    docs/services/block-internet-access.md
    docs/services/max-uac.md
    docs/services/odd-applications.md
-   docs/services/vpn.md
    docs/services/browsers.md
    docs/services/messaging.md
    docs/services/email-services.md
+   docs/services/ssh.md
+   docs/services/vpn.md
+   docs/services/vpn-fail-open.md
+   docs/services/dns-servers.md
 
 .. toctree::
    :glob:
@@ -60,7 +64,6 @@ When we have an 11 (waiting for a key) we will test it, and add mitigations.
    docs/privacy/location-tracking.md
    docs/privacy/ad-tracking.md
    docs/privacy/devices.md
-   docs/privacy/email-use.md
 
 .. toctree::
    :glob:
@@ -77,11 +80,14 @@ When we have an 11 (waiting for a key) we will test it, and add mitigations.
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Social engineering
+   :caption: Operations security
 
-   docs/social-engineering/README.md
-   docs/social-engineering/browsing.md
-   docs/social-engineering/check-mail.md
+   docs/opsec/README.md
+   docs/opsec/email-use.md
+   docs/opsec/check-mail.md
+   docs/opsec/browsing.md
+   docs/opsec/integrity-downloads.md
+   docs/opsec/*
 
 .. toctree::
    :glob:

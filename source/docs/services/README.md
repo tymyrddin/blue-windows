@@ -7,10 +7,11 @@ Take control over services, applications, and their permissions.
 * [Restrict which apps can run (without your permission)](max-uac.md)
 * [Restrict access to apps](restrict-access.md)
 * [Block applications](block-internet-access.md)
-* [Use a VPN service](vpn.md)
 * [Secure browsers that protect your privacy](browsers.md)
 * [Use a secure messaging service](messaging.md)
 * [Use a secure email service](email-services.md)
+* [Use SSH tunnels](ssh.md)
+* [Use a VPN service](vpn.md)
 
 ## Related attack trees
 
