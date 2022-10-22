@@ -32,10 +32,3 @@ If you’d like to be more secure, install a firewall (none of which offer explo
 ## Choosing a HIDS for a Windows PC
 
 Most of the [HIDS tools for Windows](ids.md) are EventLog Analyzers.
-
-## Related attack trees
-
-* [Scanning](attack-trees:docs/scanning/README)
-* [Malware](attack-trees:docs/malware/README)
-* [System](attack-trees:docs/system/README)
-* [Network](https://tymyrddin.github.io/red-network/)

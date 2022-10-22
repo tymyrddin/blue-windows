@@ -1,4 +1,4 @@
-Windows PC mitigations
+Hardening Windows
 ================================================
 
 Version 0.1: These mitigations are all based on Windows 10.
@@ -110,4 +110,4 @@ When we have an 11 (waiting for a key) we will test it, and add mitigations.
 .. toctree::
    :caption: Links
 
-   All mitigations <https://tymyrddin.github.io/mitigations/>
+   Blue Team <https://tymyrddin.github.io/blue/>
