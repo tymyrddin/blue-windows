@@ -1,7 +1,7 @@
 # Windows mitigations
 
-![Publish Windows PC mitigations using Sphinx](https://github.com/tymyrddin/windows-pc-mitigations/workflows/Publish%Windows%20PC%20mitigations%20using%20Sphinx/badge.svg?branch=main)
- Deployed: https://tymyrddin.github.io/windows-pc-mitigations/
+![Publish Windows PC mitigations using Sphinx](https://github.com/tymyrddin/blue-windows/workflows/Publish%Windows%20PC%20mitigations%20using%20Sphinx/badge.svg?branch=main)
+ Deployed: https://tymyrddin.github.io/blue-windows/
 
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
@@ -26,7 +26,8 @@ $ make html
 
 This project welcomes contributions and suggestions. 
 
-[Open an issue here](https://github.com/tymyrddin/windows-pc-mitigations/issues)
+[Open an issue here](https://github.com/tymyrddin/blue-windows/issues)
 
 ## Mind
-Where you stand depends on where you sit, and all threats are cross-vector threats. Without a clear mandate for testing, measuring and reporting actual improvements in security, attempts at improving security makes absolutely no sense, not even for the low-hanging fruit.  
+
+"Shut up and tell me what that other idiot ish doing!" "No, but look, if I've got to shut up, how can I --" The knife at his throat became a hot streak of pain and Rincewind decided to give logic a miss. ~ Cohen the Barbarian interrogates Rincewind (Terry Pratchett, The Light Fantastic)
