@@ -1,4 +1,4 @@
-# Require a password when resuming
+# Require a password when resuming from a stand-by mode
 
 A screensaver password and a sleep/stand-by password are different settings. 
 

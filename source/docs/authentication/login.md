@@ -1,4 +1,4 @@
-# Secure your login
+# More secure login
 
 ## Switch to a local login account
 

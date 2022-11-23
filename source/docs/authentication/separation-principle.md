@@ -1,6 +1,0 @@
-# No separation principle
-
- 
-
-
-

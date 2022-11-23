@@ -13,13 +13,12 @@ When we have an 11 (waiting for a key) we will test it, and add mitigations.
    :caption: Accounts and authentication
 
    docs/authentication/README.md
-   docs/authentication/separation-principle.md
-   docs/authentication/standard-user.md
    docs/authentication/login.md
    docs/authentication/resuming.md
    docs/authentication/passwords.md
    docs/authentication/password-manager.md
    docs/authentication/mfa.md
+   docs/authentication/standard-user.md
    docs/authentication/ssh-mfa.md
 
 .. toctree::

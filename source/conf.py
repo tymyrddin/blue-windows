@@ -57,7 +57,7 @@ html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
-    'style_external_links': True,
+    'style_external_links': False,
     # Toc options
     'collapse_navigation': False,
     'sticky_navigation': False,
@@ -90,5 +90,7 @@ html_show_copyright = False
 # Intersphinx
 intersphinx_mapping = {
     "blue": ("https://tymyrddin.github.io/blue/", None),
+    "blue-ir": ("https://tymyrddin.github.io/blue-ir/", None),
+    "blue-malware": ("https://tymyrddin.github.io/blue-malware/", None),
 }
 myst_url_schemes = ["http", "https", ]

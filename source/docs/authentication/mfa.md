@@ -1,4 +1,4 @@
-# Use multi-factor authentication (MFA)
+# Use multifactor authentication (MFA)
 
 Many sites and applications offer two-factor authentication (2FA), also named multi-factor authentication (MFA). 
 With 2FA enabled, logging into a website or application requires both a password and a unique code that is texted to 
