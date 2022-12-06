@@ -1,7 +1,8 @@
 # Windows mitigations
 
 ![Publish Windows PC mitigations using Sphinx](https://github.com/tymyrddin/blue-windows/workflows/Publish%Windows%20PC%20mitigations%20using%20Sphinx/badge.svg?branch=main)
- Deployed: https://tymyrddin.github.io/blue-windows/
+ 
+Deployed: https://tymyrddin.github.io/blue-windows/
 
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
