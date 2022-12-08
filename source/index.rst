@@ -109,4 +109,4 @@ When we have an 11 (waiting for a key) we will test it, and add mitigations.
 .. toctree::
    :caption: Links
 
-   Blue Team <https://tymyrddin.github.io/blue/>
+   Blue Team <https://blue.tymyrddin.dev/>
