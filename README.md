@@ -3,7 +3,7 @@
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
 
-[![Documentation Status](https://readthedocs.org/projects/blue-windows/badge/?version=latest)](https://blue.tymyrddin.dev/projects/windows/en/latest/?badge=latest)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9bb787e4-21c0-4d80-b95e-cb971b7f399f/deploy-status)](https://app.netlify.com/sites/sensational-flan-409023/deploys)
 
 ## Requirements
 
