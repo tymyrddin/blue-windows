@@ -3,7 +3,7 @@ Hardening Windows
 
 Version 0.1: These mitigations are all based on Windows 10.
 Supposedly, `Windows 11 has better security <https://www.thewindowsclub.com/new-security-features-in-windows-11>`_.
-Some of these mitigations are still applicable and useful.
+Some of these mitigations may still be applicable and useful.
 When we have an 11 key we will install, test it, and add mitigations.
 
 .. toctree::
