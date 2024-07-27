@@ -18,7 +18,8 @@ or site's login page, and you’re in. The time limit means that if an adversary
 it won’t work for them after that 30 seconds.
 
 Something to look for when choosing one of these apps is whether it backs up the account info (encrypted, of course) in 
-case you no longer have the phone you set everything up on. These all do (Google Authenticator does not).
+case you no longer have the phone you set everything up on. These all do (Google Authenticator does not). It's a choice. 
+Risks either way.
 
 * [Authy](https://authy.com/)
 * [Duo Mobile](https://duo.com/product/multi-factor-authentication-mfa/)
